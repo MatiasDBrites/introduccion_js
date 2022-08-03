@@ -49,9 +49,12 @@
   
   
  var profesor = "Jhoswe"; 
+ 
  let teacher = "Jose"; 
+ 
  if (true) { 
-     var profesor = "The Flash"; 
+     var profesor = "The Flash";
+     
      let teacher = "Reverse Flash";
      
      console.log(profesor);       
