@@ -4,7 +4,8 @@
  // 2  ( se convierte en numero )  
  
  "2" * "3"   
- // 6  ( se convierte en numero )  
+ // 6  ( se convierte en numero )
+ 
  4 + 5 + "px"     
  // "9px" ( se convierte en string )  
  
