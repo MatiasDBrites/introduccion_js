@@ -52,13 +52,17 @@
  let teacher = "Jose"; 
  if (true) { 
      var profesor = "The Flash"; 
-     let teacher = "Reverse Flash"; 
+     let teacher = "Reverse Flash";
+     
      console.log(profesor);       
      // The Flash  ( Se cambia la variable) 
+     
      console.log(teacher); 
      // Reverse Flash ( Se cambia la variable) 
  } 
+ 
  console.log(profesor);         
- // The Flash  
+ // The Flash
+ 
  console.log(teacher);          
  //  Jose    ( declarado como global dentro del if)
